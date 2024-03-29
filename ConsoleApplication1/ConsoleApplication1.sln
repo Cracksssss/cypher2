@@ -8,11 +8,6 @@ EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 	
-	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E66C3834-84B2-47E6-B0FE-4317C47D790C}.Debug|x64.ActiveCfg = Debug|x64
-		{E66C3834-84B2-47E6-B0FE-4317C47D790C}.Debug|x64.Build.0 = Debug|x64
-		{E66C3834-84B2-47E6-B0FE-4317C47D790C}.Debug|x86.ActiveCfg = Debug|Win32
-		{E66C3834-84B2-47E6-B0FE-4317C47D790C}.Debug|x86.Build.0 = Debug|Win32
 		{E66C3834-84B2-47E6-B0FE-4317C47D790C}.Release|x64.ActiveCfg = Release|x64
 		{E66C3834-84B2-47E6-B0FE-4317C47D790C}.Release|x64.Build.0 = Release|x64
 		{E66C3834-84B2-47E6-B0FE-4317C47D790C}.Release|x86.ActiveCfg = Release|Win32
